@@ -20,3 +20,6 @@ This project provides an intuitive Gradio interface to analyze Paytm transaction
 - Only **text-based PDFs** are supported (not scanned images).
 - Requires **Google Generative AI API access**. You can get an API key from [Google AI Studio](https://makersuite.google.com/app).
 - Ensure your internet connection is active during analysis (Gemini API is cloud-based).
+
+## NOTE
+The payment statement is an example document for upload!!
